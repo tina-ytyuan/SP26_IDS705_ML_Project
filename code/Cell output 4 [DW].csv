@@ -1,0 +1,6 @@
+country,country_id,indicator,indicator_id,year,value,obs_status,decimal,unit,source_file
+Africa Eastern and Southern,ZH,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,2024,,,1,,wb_2024_checkpoint_chunk_10.csv
+Africa Western and Central,ZI,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,2024,,,1,,wb_2024_checkpoint_chunk_10.csv
+Arab World,1A,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,2024,,,1,,wb_2024_checkpoint_chunk_10.csv
+Caribbean small states,S3,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,2024,,,1,,wb_2024_checkpoint_chunk_10.csv
+Central Europe and the Baltics,B8,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,2024,,,1,,wb_2024_checkpoint_chunk_10.csv
