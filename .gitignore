@@ -1,0 +1,16 @@
+# data
+data/
+*.csv
+*.pkl
+*.parquet
+
+# notebooks temp
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# mac
+.DS_Storedata/clean_wb.csv
+data/clean_wb.csv
