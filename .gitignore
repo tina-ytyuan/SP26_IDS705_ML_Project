@@ -2,7 +2,7 @@
 data/
 *.csv
 *.pkl
-*.parquet
+
 
 # notebooks temp
 .ipynb_checkpoints/
