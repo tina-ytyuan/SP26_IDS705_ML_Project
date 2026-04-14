@@ -13,3 +13,6 @@ __pycache__/
 # mac
 .DS_Storedata/clean_wb.csv
 data/clean_wb.csv
+
+# virtual environment
+.venv
