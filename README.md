@@ -1,7 +1,7 @@
 # IDS705 Machine Learning Project  
 **Spring 2026 – Duke MIDS**
 
-## 👥 Team Members
+## Team Members
 - Tina Yuan  
 - Gaurav Law
 - Bruce Chen
