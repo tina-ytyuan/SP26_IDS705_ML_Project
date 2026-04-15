@@ -62,12 +62,19 @@ Due to size constraints, datasets are not included in this repository.
 
 Clone the repository:
 
+```bash
 git clone https://github.com/tina-ytyuan/SP26_IDS705_ML_Project.git
 cd SP26_IDS705_ML_Project
+```
 
-Install dependencies:
+Create/Activate  virtual environment and install dependencies:
+
+```bash
+python -m venv venv
+source venv/bin/activate
 
 pip install -r requirements.txt
+```
 
 ---
 
