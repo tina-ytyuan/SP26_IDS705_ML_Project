@@ -1,6 +1,6 @@
 # data
-data/
-*.csv
+# data/
+# *.csv
 
 
 # notebooks temp
@@ -15,5 +15,5 @@ __pycache__/
 data/clean_wb.csv
 
 # virtual environment
-.venv/
-venv_3.12/
+.venv
+.venv_3.12
