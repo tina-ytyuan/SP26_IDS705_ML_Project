@@ -16,3 +16,4 @@ data/clean_wb.csv
 
 # virtual environment
 .venv
+venv_3.12
