@@ -78,18 +78,11 @@ SP26_IDS705_ML_Project/
 ├── code/                  # Supporting scripts or code used during the project
 ├── data/                  # Raw and processed data files; not fully tracked in GitHub
 ├── regressions.ipynb      # Existing modeling notebook in the repository
+├── rf_recession_index.ipynb      # Existing modeling notebook in the repository
 ├── requirements.txt       # Python package requirements
 ├── README.md              # Project documentation
 └── .gitignore             # Files and folders excluded from version control
 ```
-
-If the final notebook is added later, we recommend naming it something clear such as:
-
-```text
-final_recession_pipeline.ipynb
-```
-
-and placing it either in the root directory or in a `notebooks/` folder. If a `notebooks/` folder is created, update the repository structure above accordingly.
 
 ---
 
